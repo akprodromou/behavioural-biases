@@ -1,0 +1,29 @@
+---
+title: "Availability Cascades"
+categories: [social, availability, information-cascades]
+---
+
+The more a story is repeated, the more important it appears, in a self-reinforcing process. This can be illustrated as follows:
+
+1. An event or idea becomes easy to recall (it is therefore more mentally "available")
+2. Because it is easy to recall, it feels important
+3. People discuss it more
+4. Increased discussion makes it even more mentally available
+5. Back to step 1
+
+Media cycles, social media virality, and market manias all follow this pattern.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### Air fryer mania
+
+Media hype surrounding air fryers made them seem more valuable and essential than they actually were.
+
+!["I keep hearing about air fryers, they must be worth it."](../images/availability-cascades.jpg){width="300px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Availability Heuristic](availability-heuristic.qmd) · [Information Cascades](information-cascades.qmd) · [Communal Reinforcement](communal-reinforcement.qmd) · [Confirmation Bias](confirmation-bias.qmd) · [Greed and Fear](greed-and-fear.qmd)
+:::
+
+:::

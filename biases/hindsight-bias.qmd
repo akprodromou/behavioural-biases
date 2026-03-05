@@ -1,0 +1,25 @@
+---
+title: "Hindsight Bias"
+categories: [heuristics, availability]
+---
+
+Hindsight bias is when we believe that we predicted the outcome of an event, after it has occured, even when we didn't. The reason this happens is that, after an event occurs, it acts as an "anchor" in the brain, making it seem inevitable and connecting all points that led to it. On the contrary, the points and probabilities of alternative outcomes that were not materialized (the roads not taken), become harder to recall.
+
+This leads to oversimplification of the recalled thought process, failing to see the actual reasons which led to an event and, as a result, using wrong criteria when making future decisions.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### The bad AirBnB booking
+
+Imagine you book an AirBnB to spend a long weekend with your partner. You research the options, examine offerings, prices, pictures, ratings, location distances etc. and make a choice. Once you arrive there, you're not happy with the place and realize you made a mistake. "I knew it", you think, "I could tell from the pictures that it was no good".
+
+So the next time, you put too much emphasis on high-quality pictures as a criterion for making your choice, only to have yet another mediocre experience. What happened is that the tendency to believe that you predicted the quality of the booking ("I knew it all along"), led you to (a) simplifying the thought process (b) extracting the wrong conclusion and (c) failing to examine other criteria (e.g. number of reviews, rather than their rating) and eventually (d) making a second bad decision.
+
+![This place is bound to be good!](../images/hindsight-bias.jpg){width="450px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Attention Bias](attention-bias.qmd) · [Availability Heuristic](availability-heuristic.qmd) · [Confirmation Bias](confirmation-bias.qmd) · [Self-Attribution Bias](self-attribution-bias.qmd) · [Illusion of Control](illusion-of-control.qmd)
+:::
+
+:::

@@ -1,0 +1,15 @@
+---
+title: "Mental Accounting"
+listing:
+  contents: "."
+  type: grid
+  sort: "title asc"
+  filter-ui: true
+  include:
+    categories: "{mental-accounting}"
+  fields: [title, description]
+page-layout: full
+toc: false
+---
+
+This category of biases refers to the different criteria and attitudes that individuals use to evaluate financial activities and objects, depending on their source, purpose and their overall classification.

@@ -1,0 +1,16 @@
+---
+title: "Preference Reversals"
+listing:
+  contents: "."
+  type: grid
+  sort: "title asc"
+  categories: false
+  filter-ui: true
+  include:
+    categories: "{preference-reversals}"
+  fields: [title, description]
+page-layout: full
+toc: false
+---
+
+Preferences are considered rational if they remain consistent over time. In reality, however, we do change our minds, have problems committing to decisions and are biased towards present rewards.

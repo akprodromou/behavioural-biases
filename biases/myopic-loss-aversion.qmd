@@ -1,0 +1,19 @@
+---
+title: "Myopic Loss Aversion"
+categories: [prospect-theory, loss-aversion]
+---
+
+Myopic loss aversion involves evaluating gains or losses over very short timeframes, while being more sensitive to the latter (in line with [Loss Aversion](loss-aversion.qmd)).
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+Myopic loss aversion can explain why investors are quick to sell when gaining (and thus accept a win) while holding their positions when losing (and thus refusing to accept a loss), also know as the “disposition effect”.
+
+!["I'll sell, just to be on the safe side".](../images/myopic-loss-aversion.jpg){width="450px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Loss Aversion](loss-aversion.qmd) · [Narrow Framing](narrow-framing.qmd) · [Aversion to a Sure Loss](aversion-sure-loss.qmd) · [Reference Dependence](reference-dependence.qmd) · [Gambler's Fallacy](gamblers-fallacy.qmd)
+:::
+
+:::

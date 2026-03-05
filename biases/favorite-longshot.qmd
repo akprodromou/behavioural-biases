@@ -1,0 +1,23 @@
+---
+title: "Favourite-Longshot Bias"
+categories: [prospect-theory, diminishing-sensitivity]
+---
+
+It’s when we over-bet on unlike winners and under-bet on favorites. This is why the odds of the favorites in the betting industry tend to be higher than their true probabilities (e.g. 2.5 to 1 return compared to 1.5 to 1 actual probability) and vice-versa for underdogs. This is a result of both overweighing probabilities (i.e. believing in more unlikely outcomes) and [Diminishing Sensitivity](diminishing-sensitivity.qmd).
+
+::: {.callout-note icon=false collapse="false"}
+## Examples
+#### Startups
+Investing in startups despite the high likelihood of failure, as the probability of success has been estimated at around 10%; if a startup does succeed though, the returns will be high. In this example, the 10% probability is overweighted; the 90% failure probability is underweighted.
+
+#### Choosing careers
+Choosing a footballer or singer career path over a degree and a stable corporate job; while they both offer high returns when successful, one has a [0.5% to 1% chance](https://ncaaorg.s3.amazonaws.com/research/pro_beyond/2023RES_ProbabilityBeyondHSFiguresMethod.pdf) of making it.
+
+!["I know it's hard to become a professional footballer, but if I make it..."](../images/favorite-longshot.jpg){width="450px"}
+
+::: {.also-relates}
+**Also relates to:** [Diminishing Sensitivity](diminishing-sensitivity.qmd) · [Excessive Optimism](excessive-optimism.qmd) · [Overconfidence](overconfidence.qmd) · [Loss Aversion](loss-aversion.qmd) · [Illusion of Control](illusion-of-control.qmd)
+:::
+
+:::
+

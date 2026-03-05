@@ -1,0 +1,19 @@
+---
+title: "Communal Reinforcement & Groupthink"
+categories: [social, conformity]
+---
+
+Communal Reinforcement refers to mutual reinforcement through exchange of information (social learning) and it often goes along with [confirmation bias](confirmation-bias.qmd). Groupthink, on the other hand, is defined as the tendency of cohesive groups to reach consensus without offering, seeking or considering alternative hypotheses.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### NFT Art
+Buying NFT art because its a trend, without investigating its fundamental value.
+
+!["I just bought a jpeg for 50.000€."](../images/communal-reinforcement.jpg){width="300px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Social Contagion](social-contagion.qmd) · [Confirmation Bias](confirmation-bias.qmd) · [Information Cascades](information-cascades.qmd) · [Availability Cascades](availability-cascades.qmd) · [Obedience to Authority](obedience-to-authority.qmd)
+:::
+:::

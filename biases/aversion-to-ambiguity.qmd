@@ -1,0 +1,29 @@
+---
+title: "Aversion to Ambiguity"
+categories: [heuristics, familiarity]
+---
+
+This bias describes a preference for choices with known probabilities over those with unknown probabilities, regardless of the expected value of each.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### Industrial projects
+
+* **Investment 1:** If an industrial project A is successful, you will earn €1.2 million. If the project is not successful, you get your money back. You do not lose or win anything. You have no information about the chance of success of the project.
+
+* **Investment 2:** If an industrial project B is successful, you have 50% chance to reach a profitability of €1 million. On the other hand, there is a 50% chance that the project is not successful, in which case you will get your money back, similarly to investment 1. You do not lose or win anything.
+
+Most people will take the option of Investment 2, because we generally prefer knowing the likelihood of success (i.e. have some control), even if that leads to a smaller profit margin.
+
+!["I need to know what I'm dealing with when taking risks!"](../images/aversion-to-ambiguity.jpg){width="450px" fig-align="center"}
+
+## **Example 2: Garden tools**
+Preferring a 4-star rated (mediocre) hand pruner for the garden that has many reviews, over one that has no reviews at all, even if the  latter might be better.
+
+::: {.also-relates}
+**Also relates to:** [Familiarity](familiarity.qmd) · [Loss Aversion](loss-aversion.qmd) · [Diminishing Sensitivity](diminishing-sensitivity.qmd)
+:::
+
+:::
+

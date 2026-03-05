@@ -1,0 +1,21 @@
+---
+title: "Excessive Optimism"
+categories: [heuristics, overconfidence]
+---
+
+This bias describes the tendency to believe that good outcomes of events outside our control are more likely than bad outcomes, despite what objective probabilities might suggest. It differs from [overconfidence](overconfidence.qmd), which concerns events we think we influence.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### Entering new markets
+
+Investing in unfamiliar markets after a brief review period without adequate risk assessment or professional advice.
+
+!["We'll read financial news for a week, and then invest in ETFs."](../images/excessive-optimism.png){width="300px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Overconfidence](overconfidence.qmd) · [Illusion of Control](illusion-of-control.qmd) · [Extrapolation Bias](extrapolation-bias.qmd) · [Hyperbolic Discounting](hyperbolic-discounting.qmd)
+:::
+
+:::

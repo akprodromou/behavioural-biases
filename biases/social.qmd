@@ -1,0 +1,16 @@
+---
+title: "Social Factors"
+listing:
+  contents: "."
+  type: grid
+  sort: "title asc"
+  categories: false
+  filter-ui: true
+  include:
+    categories: "{social}"
+  fields: [title, description]
+page-layout: full
+toc: false
+---
+
+Cultural and social factors also impact our behavior, as we are affected by social conformity, authority, and information cascades. These biases explain market bubbles, viral spending trends, and herd behaviour.

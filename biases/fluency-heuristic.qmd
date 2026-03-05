@@ -1,0 +1,21 @@
+---
+title: "Fluency Heuristic"
+categories: [heuristics, familiarity]
+---
+
+The fluency heuristic is a variation of the [Recognition Heuristic](recognition-heuristic.qmd): when both options are recognised, the one retrieved from memory more easily (faster, more vividly) is judged as having higher value. In other words, processing ease is mistaken for objective quality.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### Nike vs Reebok
+
+An example is choosing between Nike and Reebok shoes: both options are recognized, but Nike might feel more familiar and comes to mind faster, so one might assume it’s of better quality.
+
+!["Does Reebok still do shoes? I thought it was mostly socks."](../images/fluency-heuristic.jpg){width="450px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Recognition Heuristic](recognition-heuristic.qmd) · [Familiarity](familiarity.qmd) · [Affect Heuristic](affect-heuristic.qmd) · [Availability Heuristic](availability-heuristic.qmd)
+:::
+
+:::

@@ -1,0 +1,33 @@
+\begin{tikzpicture}
+
+    % Define colors and labels
+    \def\rowlabels{{"15\%", "25\%", "30\%", "30\%"}}
+
+    \node[font=\bfseries\small, text width=2cm, align=center] at (5.4, 4.1) {Actual \\ Probabilities};
+    
+    % Loop through 4 rows (y-axis)
+    \foreach \y [count=\rowidx from 0] in {3, 2, 1, 0} {
+        
+        % Determine row style: Row 1 (y=2) is colored, others are grey
+        \ifnum\y=2
+            \def\circlecolor{blue!60} % Change 'blue' to your preferred color
+            \def\circleline{blue!80}
+        \else
+            \def\circlecolor{gray!20}
+            \def\circleline{gray!40}
+        \fi
+
+        % Draw 6 circles per row (x-axis)
+        \foreach \x in {0, 1, 2, 3, 4, 5} {
+            \draw[fill=\circlecolor, draw=\circleline] (\x*0.8, \y) circle (0.25);
+        }
+
+        % Add the percentage values to the right of the circles
+        \node[anchor=west] at (5, \y) {\pgfmathparse{\rowlabels[\rowidx]}\pgfmathresult};
+    }
+
+    % Add the arrow and label pointing to the second row (y=2)
+    \draw[-{Stealth[scale=1.2]}, thick] (8, 2) -- (6.5, 2);
+    \node[anchor=west, text width=4cm, font=\small\itshape] at (8, 2) {I knew this would happen, it will happen the next time, too!};
+
+\end{tikzpicture}

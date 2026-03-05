@@ -1,0 +1,23 @@
+---
+title: "Aversion to a Sure Loss"
+categories: [prospect-theory, diminishing-sensitivity]
+---
+
+It’s the instinct to avoid to accept a definitive loss when there is still a chance of recovering it. This can lead to taking a riskier chance that might lead to an even larger loss. This also drives the sunk cost fallacy: continuing to invest in a failing course of action because walking away would mean acknowledging a loss.
+
+In [Prospect Theory](prospect-theory.qmd) terms, aversion to a sure loss reflects risk-seeking behaviour in the loss domain (the convex portion of the value function): a guaranteed small loss feels worse than a gamble that might produce either no loss or a larger loss.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### The bad movie
+
+Staying until the end of a bad movie in the cinema because you already paid for the ticket, even though it results in a further loss of time. In this case, the ticket price is a sunk cost that cannot be recovered; the rational decision would be to evaluate only whether sitting through the rest of the film is worth your time from this moment forward. But leaving would confirm the loss; staying preserves the hope that it might get better.
+
+!["The movie is crap, but we paid all that to be here anyway, so we might as well watch it".](../images/aversion-to-sure-loss.jpg){width="450px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Diminishing Sensitivity](diminishing-sensitivity.qmd) · [Loss Aversion](loss-aversion.qmd) · [Myopic Loss Aversion](myopic-loss-aversion.qmd) · [Gambler's Fallacy](gamblers-fallacy.qmd)
+:::
+
+:::

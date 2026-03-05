@@ -1,0 +1,21 @@
+---
+title: "Hyperbolic Discounting & Present Bias"
+categories: [prospect-theory, choices, preference-reversals]
+---
+
+According to this bias, value is not discounted at a fixed rate over time, but closer rewards are valued much higher than distant ones, at a diminishing rate. In other words, we are happier to delay future rewards than present ones (“the immediacy effect”).
+
+::: {.callout-note icon=false collapse="false"}
+## Examples
+
+#### Saving, dieting, planning
+
+Think of the difficulty in saving (spending this weekend vs saving for next month), dieting (enjoying a meal now vs being slimmer in the future) and generally planning ahead.
+
+!["Let's have some pasta, there's still time for me to lose 3kg by July."](../images/hyperbolic-discounting.jpg){width="450px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:**[Self-Control and Commitment](self-control.qmd) · [Loss Aversion](loss-aversion.qmd) · [Excessive Optimism](excessive-optimism.qmd) · [Choice Bracketing](choice-bracketing.qmd)
+:::
+
+:::

@@ -1,0 +1,17 @@
+---
+title: "Representativeness Heuristic"
+
+listing:
+  contents: "."
+  type: grid
+  sort: "title asc"
+  categories: false
+  filter-ui: true
+  include:
+    categories: "{representativeness}"
+  fields: [title, description]
+page-layout: full
+toc: false
+---
+
+The Representativeness bias takes place when we assess the likelihood of an event by how well it matches (represents) a belief (stereotype) in our mind, rather than by calculating actual probabilities.

@@ -1,0 +1,20 @@
+---
+title: "Conservatism"
+categories: [prospect-theory]
+---
+
+Conservatism bias refers to the slow updating of preferences in the face of new information. Combined with [Loss Aversion](loss-aversion.qmd), it leads to slow adaptation to good news but fast adaptation to bad news (which hurts more).
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### Job market transition
+When moving to a new job market, a salary close to your previous one feels more acceptable than a vastly different one. However, this might be ignoring the fact that the cost of living and, by extent, salaries in the new job market might in average be much higher; the old anchor distorts the evaluation of the new offer.
+
+![<br>- Earning 1500€ in Athens is better compared to the 1200€ I made in Thessaloniki, let's celebrate! <br>- Erm - have you thought about the difference in cost of living?](../images/conservatism.png){#fig-conservatism width="450px"}
+
+::: {.also-relates}
+**Also relates to:** [Reference Dependence](reference-dependence.qmd) · [Anchoring and Adjustment](anchoring-and-adjustment.qmd) · [Loss Aversion](loss-aversion.qmd)
+:::
+
+:::

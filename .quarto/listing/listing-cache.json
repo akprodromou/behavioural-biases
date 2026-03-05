@@ -1,0 +1,49 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "biases"
+    ],
+    "biases/information-cascades.qmd": [
+      "."
+    ],
+    "biases/familiarity.qmd": [
+      "."
+    ],
+    "biases/mental-accounting.qmd": [
+      "."
+    ],
+    "biases/diminishing-sensitivity.qmd": [
+      "."
+    ],
+    "biases/loss-aversion.qmd": [
+      "."
+    ],
+    "biases/social.qmd": [
+      "."
+    ],
+    "biases/heuristics.qmd": [
+      "."
+    ],
+    "biases/frame-dependence.qmd": [
+      "."
+    ],
+    "biases/representativeness.qmd": [
+      "."
+    ],
+    "biases/preference-reversals.qmd": [
+      "."
+    ],
+    "biases/choices.qmd": [
+      "."
+    ],
+    "biases/availability-heuristic.qmd": [
+      "."
+    ],
+    "biases/prospect-theory.qmd": [
+      "."
+    ],
+    "biases.qmd": [
+      "biases"
+    ]
+  }
+}

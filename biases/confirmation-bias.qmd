@@ -1,0 +1,20 @@
+---
+title: "Confirmation Bias"
+categories: [heuristics, overconfidence]
+---
+
+This bias refers to registering or recalling information that supports one’s pre-existing views while ignoring contradictory evidence.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### Media coverage
+A reader notices when the newspaper mentions an immigrant being arrested for theft (confirms a stereotype) but turns the page when it is a local  arrested for the same crime.
+
+!["Arghhh, those immigrants again."](../images/confirmation-bias.png){width="600px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Self-Attribution Bias](self-attribution-bias.qmd) · [Availability Heuristic](availability-heuristic.qmd) · [Communal Reinforcement](communal-reinforcement.qmd) · [Hindsight Bias](hindsight-bias.qmd) · [Causality and Attribution](causality-and-attribution.qmd) · [Illusion of Validity](illusion-of-validity.qmd)
+:::
+
+:::

@@ -1,0 +1,16 @@
+---
+title: "Availability Heuristic"
+# subtitle: "We judge the probability of an event by how easily examples come to mind rather than actual frequency."
+listing:
+  contents: "."
+  type: grid
+  sort: "title asc"
+  filter-ui: true
+  include:
+    categories: "{availability}"
+  fields: [title, description]
+page-layout: full
+toc: false
+---
+
+It's when individuals estimate the probability of an event based on the ease with which examples come to mind. Consequently, more salient or recent information can disproportionately skew our perception of the actual frequency or importance of those events.

@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Effect of Behavioural Biases on Financial Decisions"
+  description: "An interactive guide to cognitive and behavioural biases in financial decision-making."
+  favicon: images/favicon.ico
+  navbar:
+    left:
+      - href: biases.qmd
+        text: All Biases
+      - text: Categories
+        menu:
+          - href: biases/heuristics.qmd
+            text: "Heuristics and Judgemental Biases"
+          - href: biases/choices.qmd
+            text: "Choices: Framing and References"
+          - href: biases/social.qmd
+            text: "Social Factors"
+      - href: about.qmd
+        text: About
+  search:
+    location: navbar
+    type: overlay
+  # page-footer:
+  #   center: |
+  #     [Contact](https://akprodromou.github.io/)
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    code-fold: true
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
+
+bibliography: references.bib

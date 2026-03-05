@@ -1,0 +1,28 @@
+---
+title: "Affect Heuristic"
+categories: [heuristics]
+---
+
+It’s when an easy, emotional assessment (“affect”) replaces a more complex assessment (“target attribute”) that requires more thought, such as e.g. a calculation. This is because affective evaluation comes fast (first) and blurs the evaluation that follows.
+
+::: {.callout-note icon=false collapse="false"}
+## **Examples**
+
+#### Product packaging
+
+An elegant product sells better because we like its appearance, regardless of the contents.
+
+!["These body creams are amazing - look at the packaging!"](../images/affect-heuristic.jpg){#fig-affect-heuristic width="450px"}
+
+#### Limited time offers
+
+Urgent framing of product sales (e.g. "Only 3 left!" / "Offer ends tonight!") creates a rush to buy, leading us to overlook the actual value of a purchase.
+
+::: {.also-relates}
+**Also relates to:** [Attention Bias](attention-bias.qmd) · [Familiarity](familiarity.qmd) · [Illusion of Validity](illusion-of-validity.qmd) · [Frame Dependence](frame-dependence.qmd) · [Greed and Fear](greed-and-fear.qmd)
+:::
+
+:::
+
+
+

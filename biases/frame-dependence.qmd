@@ -1,0 +1,18 @@
+---
+title: "Frame Dependence"
+categories: [choices]
+
+subtitle: "Our preference between identical options changes depending on how the problem is presented."
+listing:
+  contents: "."
+  type: grid
+  sort: "title asc"
+  filter-ui: true
+  include:
+    categories: "{framing}"
+  fields: [title, description]
+page-layout: full
+toc: false
+---
+
+It's when our choices change depending on the framing of a problem; in other words, options are not always evaluated in absolute terms but relative to the way they are presented.

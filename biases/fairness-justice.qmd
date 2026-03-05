@@ -1,0 +1,22 @@
+---
+title: "Fairness and Justice"
+categories: [social]
+---
+
+Financial decisions can be affected by considerations of fairness and loyalty, resulting in either abstaining from or favoring particular choices.
+
+This bias is also related to the money illusion behavioral effect, where we give importance to the nominal rather than actual value of objects (also see [narrow-framing](narrow-framing.qmd)). For example, we consider fair a company that gives a raise, even if that is lower than inflation; on the contrary, we often perceive a pay cut as an act of unfairness or a breach of loyalty, even if that cut occurs during a period of deflation (e.g. financial crisis) where the employee's actual purchasing power remains the same or even increases.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### Boycotting
+A typical example is that of boycotting a product from a company perceived as unethical, even if that means spending more on an alternative.
+
+!["I'm not ordering from Amazon, even if it means paying more to buy it from the local bookshop".](../images/fairness-and-justice.jpg){#fig-fairness-justice width="300px"}
+
+::: {.also-relates}
+**Also relates to:** [Narrow Framing](narrow-framing.qmd) · [Communal Reinforcement](communal-reinforcement.qmd) · [Context Dependence](context-dependence.qmd)
+:::
+
+:::

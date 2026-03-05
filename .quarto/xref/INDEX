@@ -1,0 +1,170 @@
+{
+  "index.qmd": {
+    "index.html": "e40ab338"
+  },
+  "about.qmd": {
+    "about.html": "6cadd53a"
+  },
+  "biases/hyperbolic-discounting.qmd": {
+    "hyperbolic-discounting.html": "d89d6c98"
+  },
+  "biases/affect-heuristic.qmd": {
+    "affect-heuristic.html": "730c9442"
+  },
+  "biases/excessive-optimism.qmd": {
+    "excessive-optimism.html": "3d5e277e"
+  },
+  "biases/status-quo-bias.qmd": {
+    "status-quo-bias.html": "869d6481"
+  },
+  "biases/fluency-heuristic.qmd": {
+    "fluency-heuristic.html": "53743581"
+  },
+  "biases/choice-bracketing.qmd": {
+    "choice-bracketing.html": "a46c7224"
+  },
+  "biases/causality-and-attribution.qmd": {
+    "causality-and-attribution.html": "5d2859a6"
+  },
+  "biases/obedience-to-authority.qmd": {
+    "obedience-to-authority.html": "e831067d"
+  },
+  "biases/self-control.qmd": {
+    "self-control.html": "a8ce954e"
+  },
+  "biases/information-cascades.qmd": {
+    "information-cascades.html": "2bbc8096"
+  },
+  "biases/repeated-gambles.qmd": {
+    "repeated-gambles.html": "74fa69f6"
+  },
+  "biases/context-dependence.qmd": {
+    "context-dependence.html": "fd893f32"
+  },
+  "biases/law-of-small-numbers.qmd": {
+    "law-of-small-numbers.html": "0908470c"
+  },
+  "biases/anchoring-and-adjustment.qmd": {
+    "anchoring-and-adjustment.html": "2118f135"
+  },
+  "biases/familiarity.qmd": {
+    "familiarity.html": "251ca8a5"
+  },
+  "biases/gamblers-fallacy.qmd": {
+    "gamblers-fallacy.html": "7199cf8c"
+  },
+  "biases/illusion-of-control.qmd": {
+    "illusion-of-control.html": "af9ee08e"
+  },
+  "biases/aversion-sure-loss.qmd": {
+    "aversion-sure-loss.html": "daed0589"
+  },
+  "biases/extrapolation-bias.qmd": {
+    "extrapolation-bias.html": "a530a29b"
+  },
+  "biases/conjunction-fallacy.qmd": {
+    "conjunction-fallacy.html": "67589231"
+  },
+  "biases/mental-accounting.qmd": {
+    "mental-accounting.html": "3bf4026b"
+  },
+  "biases/diminishing-sensitivity.qmd": {
+    "diminishing-sensitivity.html": "aad2ff7a"
+  },
+  "biases/communal-reinforcement.qmd": {
+    "communal-reinforcement.html": "a98cf5ae"
+  },
+  "biases/hindsight-bias.qmd": {
+    "hindsight-bias.html": "1836a335"
+  },
+  "biases/myopic-loss-aversion.qmd": {
+    "myopic-loss-aversion.html": "8c7985b3"
+  },
+  "biases/loss-aversion.qmd": {
+    "loss-aversion.html": "7253bab4"
+  },
+  "biases/hot-hand-fallacy.qmd": {
+    "hot-hand-fallacy.html": "9bb465d2"
+  },
+  "biases/overconfidence.qmd": {
+    "overconfidence.html": "0dcdf0c2"
+  },
+  "biases/illusion-of-validity.qmd": {
+    "illusion-of-validity.html": "fed37cb8"
+  },
+  "biases/confirmation-bias.qmd": {
+    "confirmation-bias.html": "c03325f3"
+  },
+  "biases/conservatism.qmd": {
+    "conservatism.html": "1bbc0107"
+  },
+  "biases/social.qmd": {
+    "social.html": "9a9560b6"
+  },
+  "biases/availability-cascades.qmd": {
+    "availability-cascades.html": "518f29b8"
+  },
+  "biases/self-attribution-bias.qmd": {
+    "self-attribution-bias.html": "014730e2"
+  },
+  "biases/aversion-to-ambiguity.qmd": {
+    "aversion-to-ambiguity.html": "76413f75"
+  },
+  "biases/heuristics.qmd": {
+    "heuristics.html": "00acf464"
+  },
+  "biases/attention-bias.qmd": {
+    "attention-bias.html": "fe30e527"
+  },
+  "biases/hedonic-editing.qmd": {
+    "hedonic-editing.html": "c75b3b59"
+  },
+  "biases/reference-dependence.qmd": {
+    "reference-dependence.html": "5ddbe8a6"
+  },
+  "biases/recognition-heuristic.qmd": {
+    "recognition-heuristic.html": "e7b48c21"
+  },
+  "biases/frame-dependence.qmd": {
+    "frame-dependence.html": "1c953e8f"
+  },
+  "biases/representativeness.qmd": {
+    "representativeness.html": "3b051d5b"
+  },
+  "biases/favorite-longshot.qmd": {
+    "favorite-longshot.html": "6138d4e5"
+  },
+  "biases/narrow-framing.qmd": {
+    "narrow-framing.html": "c54452af"
+  },
+  "biases/greed-and-fear.qmd": {
+    "greed-and-fear.html": "a7e56325"
+  },
+  "biases/choices.qmd": {
+    "choices.html": "b06e355b"
+  },
+  "biases/availability-heuristic.qmd": {
+    "availability-heuristic.html": "b8a1c078"
+  },
+  "biases/base-rate-neglect.qmd": {
+    "base-rate-neglect.html": "238a11a2"
+  },
+  "biases/social-contagion.qmd": {
+    "social-contagion.html": "148716c7"
+  },
+  "biases/prospect-theory.qmd": {
+    "prospect-theory.html": "c6c37281"
+  },
+  "biases.qmd": {
+    "biases.html": "c1c17b83"
+  },
+  "biases/preference-reversals.qmd": {
+    "preference-reversals.html": "4779b31b"
+  },
+  "biases/fairness-justice.qmd": {
+    "fairness-justice.html": "cf917c9a"
+  },
+  "biases/status-envy.qmd": {
+    "status-envy.html": "2f2dee3e"
+  }
+}

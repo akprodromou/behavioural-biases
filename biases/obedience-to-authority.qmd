@@ -1,0 +1,20 @@
+---
+title: "Obedience to Authority"
+categories: [social, conformity]
+---
+
+Obedience to authority in a financial context means following expert advice even when the data or our views say otherwise. We therefore trust the expert's status as a substitute for our own, independent evaluation.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### Expert endorsement
+An financial commentator suggests investing in crypto. However, their recommendation might (a) also be biased, whether they realise it (e.g. sponsored by a betting platform) or not (simply carried away by the ongoing trend) (b) be mistaken, either by lack of true expertise or simply because crypto markets are hard to predict.
+
+!["Sounds like a real expert, this guy".](../images/obedience-to-authority.jpg){width="450px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Social Contagion](social-contagion.qmd) · [Communal Reinforcement](communal-reinforcement.qmd) · [Availability Cascades](availability-cascades.qmd) · [Confirmation Bias](confirmation-bias.qmd)
+:::
+
+:::

@@ -1,0 +1,21 @@
+---
+title: "Overconfidence"
+categories: [heuristics, overconfidence]
+---
+
+Overconfidence is our tendency to overestimate our own skills and it might occur when (a) estimating our own performance (overestimation), (b) our own performance relative to others (overplacement), and (c) when showing excessive precision to estimate future uncertainty (overprecision).
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+
+#### New café
+
+While less than half of new enterprises (45%) are still active after five years in the EU, an entrepreneur takes a loan with a 7-year payback period, confident they will beat the odds.
+
+!["I'll take a €90,000 loan to open a new café, enough with working in an office".](../images/overconfidence.jpg){width="450px" fig-align="center"}
+
+::: {.also-relates}
+**Also relates to:** [Excessive Optimism](excessive-optimism.qmd) · [Illusion of Validity](illusion-of-validity.qmd) · [Extrapolation Bias](extrapolation-bias.qmd) · [Hot Hand Fallacy](hot-hand-fallacy.qmd)
+:::
+
+:::

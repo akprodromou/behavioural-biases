@@ -1,0 +1,16 @@
+---
+title: "Choices & Framing Biases"
+subtitle: "How options are presented changes what we choose."
+listing:
+  contents: "."
+  type: grid
+  sort: "title asc"
+  filter-ui: true
+  include:
+    categories: "{choices}"
+  fields: [title, description]
+page-layout: full
+toc: false
+---
+
+This group of biases is generally related to framing and evaluation; the way an option is presented can change our decision.

@@ -1,0 +1,20 @@
+---
+title: "All Biases"
+subtitle: "Browse, search, and filter all documented behavioural biases."
+listing:
+  contents: biases
+  type: table
+  sort: "title asc"
+  categories: true
+  filter-ui: true
+  sort-ui: true
+  fields: [title, description, categories]
+  field-display-names:
+    title: "Bias"
+    description: "Description"
+    categories: "Category"
+page-layout: full
+toc: false
+---
+
+Use the search bar above or the filter panel on the right to narrow down biases by category or keyword.

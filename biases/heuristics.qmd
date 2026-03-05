@@ -1,0 +1,17 @@
+---
+title: "Heuristics & Judgement Biases"
+
+listing:
+  contents: "."
+  type: grid
+  sort: "title asc"
+  categories: false
+  filter-ui: true
+  include:
+    categories: "{heuristics}"
+  fields: [title, description]
+page-layout: full
+toc: false
+---
+
+Heuristics are mental "rules of thumb" that help us make quick decisions under uncertainty. While often useful, they can lead to wrong decisions when applied in the wrong context.

@@ -1,0 +1,22 @@
+---
+title: "Repeated Gambles"
+categories: [choices, framing]
+---
+
+Repeated gambles refer to the failure to account for how individual decisions aggregate over time as cumulative sums. For example, each choice may seem trivial in isolation, but their cumulative impact can be substantial, and this changes the perceived risk of a series of actions. This is a form of [Narrow Framing](narrow-framing.qmd) applied across time.
+
+::: {.callout-note icon=false collapse="false"}
+## Example
+#### Buying a car
+Preferring a cheaper car with higher fuel consumption per litre, ignoring that costs accumulate over time and will exceed those of buying a more expensive car with lower consumption.
+
+!["I'll save €3,000 by choosing the cheaper car." But its fuel consumption means within 2 years it'll cost more.](../images/repeated-gambles.jpg){width="450px" fig-align="center"}
+
+#### Lottery tickets
+Buying one lottery ticket seems harmless, but over the years, the cost accumulates.
+
+::: {.also-relates}
+**Also relates to:** [Narrow Framing](narrow-framing.qmd) · [Choice Bracketing](choice-bracketing.qmd) · [Hyperbolic Discounting](hyperbolic-discounting.qmd) · [Mental Accounting](mental-accounting.qmd)
+:::
+
+:::

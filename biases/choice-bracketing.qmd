@@ -1,0 +1,24 @@
+---
+title: "Choice Bracketing"
+categories: [choices, mental-accounting]
+---
+
+Choice bracketing refers to how we group individual choices into broader or narrower evaluation sets. When bracketing narrowly, we seek the maximum immediate satisfaction; when bracketing broadly, we account for the cumulative consequences across many choices.
+
+::: {.callout-note icon=false collapse="false"}
+## Examples
+
+#### The newspaper add-on
+Paying extra for a magazine that comes with the Sunday newspaper, even though you wouldn't have bought it separately. The choice is evaluated narrowly (it's cheap relative to the newspaper), ignoring the broader bracket (do I need this at all?).
+
+!["Sure, I'll pay a bit extra for this magazine I'll never read".](../images/choice-bracketing.jpg){width="450px" fig-align="center"}
+
+#### Gym membership
+
+Setting a monthly gym goal rather than a daily one makes individual missed days feel less important and accounts for some lack of self-control.
+
+::: {.also-relates}
+**Also relates to:** [Mental Accounting](mental-accounting.qmd) · [Narrow Framing](narrow-framing.qmd) · [Hyperbolic Discounting](hyperbolic-discounting.qmd) · [Self-Control and Commitment](self-control.qmd) · [Repeated Gambles](repeated-gambles.qmd)
+:::
+
+:::
