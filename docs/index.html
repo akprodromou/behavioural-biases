@@ -212,7 +212,7 @@ window.Quarto = {
 </section>
 <section id="what-are-behavioural-biases" class="level2">
 <h2 class="anchored" data-anchor-id="what-are-behavioural-biases">What are Behavioural Biases?</h2>
-<p>Behavioural biases try to explain our tendency to reason in certain ways that can lead to systematic errors or deviations from a standard of rationality or good judgment in thinking or reasoning. In the financial setting, they aim to explain why consumers and investors make decisions that oppose the <a href="https://web.stanford.edu/~jdlevin/Econ%20202/Choice%20Theory.pdf">standard model of rational choice</a>, which states that when presented with a set of options, individuals choose the option that maximizes their expected utility.</p>
+<p>Behavioural biases try to explain our tendency to reason in certain ways that can lead to systematic errors or deviations from a standard of rationality or good judgment in thinking or reasoning. In the financial setting, consequently, they aim to explain why consumers and investors make decisions that oppose the <a href="https://web.stanford.edu/~jdlevin/Econ%20202/Choice%20Theory.pdf">standard model of rational choice</a>, which states that when presented with a set of options, individuals choose the option that maximizes their expected utility.</p>
 <p>This site serves as an anthology of 44 biases across three major categories, in line with the taxonomy proposed by <a href="https://hemeroteca.unad.edu.co/index.php/revista-estrategica-organizacio/article/view/4963/4705">David Peon and Manel Antelo</a>, including some examples from daily life for each.</p>
 <hr>
 </section>
@@ -938,7 +938,7 @@ This bias relates to buying products out of jealousy, to boost self-esteem, resu
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/akprodromou\.github\.io\/behavioural-biases\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
