@@ -11,7 +11,7 @@ To think your judgement is valid, even when the evidence you have at hand is wea
 #### Product packaging
 Assuming a product is good because of its packaging or wording.
 
-!["These chips are bound to be healthy!"](../images/illusion-of-validity.png){width="300px"}
+!["These chips are bound to be healthy!"](../images/illusion-of-validity.jpg){width="300px"}
 
 ::: {.also-relates}
 **Also relates to:**  [Representativeness Heuristic](representativeness.qmd) · [Affect Heuristic](affect-heuristic.qmd) · [Overconfidence](overconfidence.qmd) · [Confirmation Bias](confirmation-bias.qmd) · [Familiarity](familiarity.qmd)
