@@ -12,7 +12,7 @@ This is a judgment bias where an initial value (the "anchor") influences subsequ
 
 An apartment is listed for sale at €425.000. A buyer feels that bringing its price down to €405.000 (i.e. an adjustment) as a win, because it feels reasonable compared to the initial price. Does this reflect though the true value of the property, or is it still anchored to an inflated asking price?.
 
-!["If I manage to drop the price by 5% it's a win… or is it?"](../images/anchoring-and-adjustment.png){width="600px" fig-align="center"}
+!["If I manage to drop the price by 5% it's a win… or is it?"](../images/anchoring-and-adjustment.jpg){width="600px" fig-align="center"}
 
 ::: {.also-relates}
 **Also relates to:** [Reference Dependence](reference-dependence.qmd) · [Conservatism](conservatism.qmd) · [Context Dependence](context-dependence.qmd) · [Frame Dependence](frame-dependence.qmd) · [Loss Aversion](loss-aversion.qmd)
