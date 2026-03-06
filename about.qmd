@@ -5,13 +5,14 @@ toc: false
 
 ## Purpose
 
-This site lists a number of behavioural biases in financial decision-making, as those are documented in the paper ["The effect of behavioral biases on financial decisions"](https://doi.org/10.22490/25392786.4963), by David Peon and Manel Antelo.
+This site lists a number of behavioural biases in financial decision-making, as those are documented in the paper ["The effect of behavioral biases on financial decisions"](https://hemeroteca.unad.edu.co/index.php/revista-estrategica-organizacio/article/view/4963/4705), by David Peon and Manel Antelo.
 
-The aim is to offer a reference tool for students, practitioners, and anyone curious about the psychology behind economic choices. Each bias presents its definition, one or more examples associated with it, as well as cross-links to related biases.
+The aim is to offer a reference tool for students, practitioners, and anyone curious about the psychology behind economic choices. Each bias page contains its its definition, one or more examples associated with it, as well as links to related biases.
 
 ## Contact
 
-Do you have a suggestion for improving the page or a project idea? You can drop me an <a href="mailto:&#97;&#107;&#112;&#114;&#111;&#100;&#114;&#111;&#109;&#111;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">email</a>.
+Do you have a suggestion for improving the page or a project idea? You can drop me an <a href="mailto:&#97;&#107;&#112;&#114;&#111;&#100;&#114;&#111;&#109;&#111;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">email</a> or connect via [LinkedIn](https://www.linkedin.com/in/antonis-prodromou-535a4436a/) or [GitHub](https://github.com/akprodromou).
+
 
 
 

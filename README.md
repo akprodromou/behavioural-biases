@@ -6,4 +6,6 @@ The aim is to offer a reference tool for students, practitioners, and anyone cur
 
 It was coded using Quarto and Python.
 
+Live version: https://akprodromou.github.io/behavioural-biases/
+
 
