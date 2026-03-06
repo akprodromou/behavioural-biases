@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "The Effect of Behavioural Biases on Financial Decisions"
