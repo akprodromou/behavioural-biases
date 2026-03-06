@@ -1,0 +1,243 @@
+[
+  {
+    "listing": "/biases.html",
+    "items": [
+      "/biases/affect-heuristic.html",
+      "/biases/anchoring-and-adjustment.html",
+      "/biases/attention-bias.html",
+      "/biases/availability-cascades.html",
+      "/biases/availability-heuristic.html",
+      "/biases/aversion-to-ambiguity.html",
+      "/biases/aversion-sure-loss.html",
+      "/biases/base-rate-neglect.html",
+      "/biases/causality-and-attribution.html",
+      "/biases/choice-bracketing.html",
+      "/biases/choices.html",
+      "/biases/communal-reinforcement.html",
+      "/biases/confirmation-bias.html",
+      "/biases/conjunction-fallacy.html",
+      "/biases/conservatism.html",
+      "/biases/context-dependence.html",
+      "/biases/diminishing-sensitivity.html",
+      "/biases/excessive-optimism.html",
+      "/biases/extrapolation-bias.html",
+      "/biases/fairness-justice.html",
+      "/biases/familiarity.html",
+      "/biases/favorite-longshot.html",
+      "/biases/fluency-heuristic.html",
+      "/biases/frame-dependence.html",
+      "/biases/gamblers-fallacy.html",
+      "/biases/greed-and-fear.html",
+      "/biases/hedonic-editing.html",
+      "/biases/heuristics.html",
+      "/biases/hindsight-bias.html",
+      "/biases/hot-hand-fallacy.html",
+      "/biases/hyperbolic-discounting.html",
+      "/biases/illusion-of-control.html",
+      "/biases/illusion-of-validity.html",
+      "/biases/information-cascades.html",
+      "/biases/law-of-small-numbers.html",
+      "/biases/loss-aversion.html",
+      "/biases/mental-accounting.html",
+      "/biases/myopic-loss-aversion.html",
+      "/biases/narrow-framing.html",
+      "/biases/obedience-to-authority.html",
+      "/biases/overconfidence.html",
+      "/biases/preference-reversals.html",
+      "/biases/prospect-theory.html",
+      "/biases/recognition-heuristic.html",
+      "/biases/reference-dependence.html",
+      "/biases/repeated-gambles.html",
+      "/biases/representativeness.html",
+      "/biases/self-attribution-bias.html",
+      "/biases/self-control.html",
+      "/biases/social-contagion.html",
+      "/biases/social.html",
+      "/biases/status-envy.html"
+    ]
+  },
+  {
+    "listing": "/biases/availability-heuristic.html",
+    "items": [
+      "/biases/attention-bias.html",
+      "/biases/availability-cascades.html",
+      "/biases/hindsight-bias.html"
+    ]
+  },
+  {
+    "listing": "/biases/representativeness.html",
+    "items": [
+      "/biases/base-rate-neglect.html",
+      "/biases/causality-and-attribution.html",
+      "/biases/conjunction-fallacy.html",
+      "/biases/extrapolation-bias.html",
+      "/biases/gamblers-fallacy.html",
+      "/biases/hot-hand-fallacy.html",
+      "/biases/illusion-of-validity.html",
+      "/biases/law-of-small-numbers.html"
+    ]
+  },
+  {
+    "listing": "/biases/heuristics.html",
+    "items": [
+      "/biases/affect-heuristic.html",
+      "/biases/anchoring-and-adjustment.html",
+      "/biases/attention-bias.html",
+      "/biases/aversion-to-ambiguity.html",
+      "/biases/base-rate-neglect.html",
+      "/biases/causality-and-attribution.html",
+      "/biases/confirmation-bias.html",
+      "/biases/conjunction-fallacy.html",
+      "/biases/excessive-optimism.html",
+      "/biases/extrapolation-bias.html",
+      "/biases/familiarity.html",
+      "/biases/fluency-heuristic.html",
+      "/biases/gamblers-fallacy.html",
+      "/biases/hindsight-bias.html",
+      "/biases/hot-hand-fallacy.html",
+      "/biases/illusion-of-control.html",
+      "/biases/illusion-of-validity.html",
+      "/biases/law-of-small-numbers.html",
+      "/biases/overconfidence.html",
+      "/biases/recognition-heuristic.html",
+      "/biases/self-attribution-bias.html"
+    ]
+  },
+  {
+    "listing": "/biases/social.html",
+    "items": [
+      "/biases/availability-cascades.html",
+      "/biases/communal-reinforcement.html",
+      "/biases/fairness-justice.html",
+      "/biases/greed-and-fear.html",
+      "/biases/information-cascades.html",
+      "/biases/obedience-to-authority.html",
+      "/biases/social-contagion.html",
+      "/biases/status-envy.html"
+    ]
+  },
+  {
+    "listing": "/biases/loss-aversion.html",
+    "items": [
+      "/biases/myopic-loss-aversion.html"
+    ]
+  },
+  {
+    "listing": "/biases/diminishing-sensitivity.html",
+    "items": [
+      "/biases/aversion-sure-loss.html",
+      "/biases/favorite-longshot.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/biases/affect-heuristic.html",
+      "/biases/anchoring-and-adjustment.html",
+      "/biases/attention-bias.html",
+      "/biases/availability-cascades.html",
+      "/biases/aversion-to-ambiguity.html",
+      "/biases/aversion-sure-loss.html",
+      "/biases/base-rate-neglect.html",
+      "/biases/causality-and-attribution.html",
+      "/biases/choice-bracketing.html",
+      "/biases/communal-reinforcement.html",
+      "/biases/confirmation-bias.html",
+      "/biases/conjunction-fallacy.html",
+      "/biases/conservatism.html",
+      "/biases/context-dependence.html",
+      "/biases/diminishing-sensitivity.html",
+      "/biases/excessive-optimism.html",
+      "/biases/extrapolation-bias.html",
+      "/biases/fairness-justice.html",
+      "/biases/familiarity.html",
+      "/biases/favorite-longshot.html",
+      "/biases/fluency-heuristic.html",
+      "/biases/gamblers-fallacy.html",
+      "/biases/greed-and-fear.html",
+      "/biases/hedonic-editing.html",
+      "/biases/hindsight-bias.html",
+      "/biases/hot-hand-fallacy.html",
+      "/biases/hyperbolic-discounting.html",
+      "/biases/illusion-of-control.html",
+      "/biases/illusion-of-validity.html",
+      "/biases/information-cascades.html",
+      "/biases/law-of-small-numbers.html",
+      "/biases/loss-aversion.html",
+      "/biases/myopic-loss-aversion.html",
+      "/biases/narrow-framing.html",
+      "/biases/obedience-to-authority.html",
+      "/biases/overconfidence.html",
+      "/biases/prospect-theory.html",
+      "/biases/recognition-heuristic.html",
+      "/biases/reference-dependence.html",
+      "/biases/repeated-gambles.html",
+      "/biases/self-attribution-bias.html",
+      "/biases/self-control.html",
+      "/biases/social-contagion.html",
+      "/biases/status-envy.html"
+    ]
+  },
+  {
+    "listing": "/biases/information-cascades.html",
+    "items": [
+      "/biases/availability-cascades.html"
+    ]
+  },
+  {
+    "listing": "/biases/familiarity.html",
+    "items": [
+      "/biases/aversion-to-ambiguity.html",
+      "/biases/fluency-heuristic.html",
+      "/biases/recognition-heuristic.html"
+    ]
+  },
+  {
+    "listing": "/biases/mental-accounting.html",
+    "items": [
+      "/biases/choice-bracketing.html",
+      "/biases/hedonic-editing.html"
+    ]
+  },
+  {
+    "listing": "/biases/frame-dependence.html",
+    "items": [
+      "/biases/context-dependence.html",
+      "/biases/narrow-framing.html",
+      "/biases/repeated-gambles.html"
+    ]
+  },
+  {
+    "listing": "/biases/preference-reversals.html",
+    "items": [
+      "/biases/hyperbolic-discounting.html",
+      "/biases/self-control.html"
+    ]
+  },
+  {
+    "listing": "/biases/choices.html",
+    "items": [
+      "/biases/anchoring-and-adjustment.html",
+      "/biases/choice-bracketing.html",
+      "/biases/context-dependence.html",
+      "/biases/frame-dependence.html",
+      "/biases/hedonic-editing.html",
+      "/biases/hyperbolic-discounting.html",
+      "/biases/narrow-framing.html",
+      "/biases/repeated-gambles.html",
+      "/biases/self-control.html"
+    ]
+  },
+  {
+    "listing": "/biases/prospect-theory.html",
+    "items": [
+      "/biases/aversion-sure-loss.html",
+      "/biases/conservatism.html",
+      "/biases/favorite-longshot.html",
+      "/biases/hyperbolic-discounting.html",
+      "/biases/myopic-loss-aversion.html",
+      "/biases/reference-dependence.html",
+      "/biases/self-control.html"
+    ]
+  }
+]
